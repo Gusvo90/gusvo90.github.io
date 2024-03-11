@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.logo {
+    width: 460px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: black;
+    font-family: "Roboto", "Arial", sans-serif;
+}
+
+.audio {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.amongus {
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.capa {
+    border-radius: 20px;
+    width: 250px;
+}
+
+.bolo {
+    color: blueviolet;
+    font-size: 25px;
+}
+
+.maça {
+    color: blueviolet;
+    font-size: 25px;
+    ;
+}
+
+.paranoid {
+    border-radius: 20px;
+    width: 250px;
+
+}
+
+.albuns {
+    margin-right: 25px;
+}
+
+.milho {
+    display: flex;
+    ;
+}
+
+.master {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 25px;
+}
+
+.of {
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.reality {
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.Vol {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 25px
+}
+
+.quatro {
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.snow {
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.bloody {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 25px;
+}
+
+.sabbath {
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.fim {
+    color: blueviolet;
+    font-size: 25px;
+    margin-left: 25px;
+}
